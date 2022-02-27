@@ -3,7 +3,7 @@
 Say Hello. Connect with me here -
 
 [![Twitter Badge](https://img.shields.io/badge/-namxomcau-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/namxomcau/)](https://twitter.com/namxomcau/)
-[![Facebook Badge](https://img.shields.io/badge/-n4m4rch-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/n4m4rch/)](https://www.facebook.com/in/namxomcau/)
+[![Facebook Badge](https://img.shields.io/badge/-n4m4rch-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/n4m4rch/)](https://www.facebook.com/n4m4rch/)
 [![Linkedin Badge](https://img.shields.io/badge/-NamSystem-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-van-nam-bb984b1a9/)](https://www.linkedin.com/in/tran-van-nam-bb984b1a9/)
 [![Medium Badge](https://img.shields.io/badge/-@namxomcau-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@namxomcau/)](https://medium.com/@namxomcau)
 [![Gmail Badge](https://img.shields.io/badge/-namtv2312.st@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:namtv2312.st@gmail.com)](mailto:namtv2312.st@gmail.com)
