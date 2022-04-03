@@ -29,8 +29,17 @@ Say Hello. Connect with me here -
  
   ![Exploit](https://img.shields.io/badge/-Exploit-black?style=plastic&logo=Exploit)
 - ⚡️ Fun fact: I love You
+---
 
-[![Namtv2312's github stats](https://github-readme-stats.vercel.app/api?username=Namtv2312&theme=dark&show_icons=true)](https://github.com/Namtv2312)
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=Namtv2312&column=7"/>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Namtv2312&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namtv2312&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
+
 [![n4m4rch's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13600043)](https://stackoverflow.com/users/13600043/n4m4rch)
 
 
