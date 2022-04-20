@@ -10,7 +10,7 @@ Say Hello. Connect with me here -
 <!---
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 -->
-[![Instagram Badge](https://img.shields.io/badge/-NamSystem-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/n4m4rch/)](https://instagram.com/n4m4rch)
+[![Instagram Badge](https://img.shields.io/badge/-NamSystem-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/nam4lpha/)](https://instagram.com/nam4lpha)
 
 - 🏢 I'm currently working at **NST**
 - 🚀 I use daily:
@@ -40,7 +40,7 @@ Say Hello. Connect with me here -
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namtv2312&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
-[![n4m4rch's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13600043)](https://stackoverflow.com/users/13600043/n4m4rch)
+[![namα's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13600043)](https://stackoverflow.com/users/13600043/nam4lpha)
 
 
 # Read my recent blog's
