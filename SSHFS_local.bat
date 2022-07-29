@@ -1,0 +1,1 @@
+net use K: \\sshfs\n4m4rch@192.168.65.129/ namsc2312

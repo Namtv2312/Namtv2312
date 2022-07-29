@@ -1,0 +1,1 @@
+vcxsrv.exe -multiwindow -clipboard

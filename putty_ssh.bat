@@ -1,0 +1,1 @@
+"D:\Document\Program Files\PuTTY\Putty.exe" -ssh -X n4m4rch@192.168.65.129 -pw namsc2312 -P 22
