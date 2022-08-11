@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="/icons/code.gif?raw=true" width="500" height="320" />
 
 ```
-root@bughunt3r:~# cat about.txt
+root@nam4lpha:~# cat about.txt
 .-..-. / - .... . / .--. .- - .... / .. ... / -- --- .-. . / .. -- .--. --- .-. - .- -. - / - .... .- -. / - .... . / -.. . ... - .. -. .- - .. --- -. / .-..-. / ..--.- -. .- -- ....- .-.. .--. .... .- ..--.-
 ```
 
@@ -22,6 +22,9 @@ root@bughunt3r:~# cat about.txt
 </a>
 <a href="https://twitter.com/namxomcau">
   <img align="left" alt="nam4lpha | Twitter" width="22px" src="/icons/twitter.svg" />
+</a>
+<a href="mailto:namxomcau@gmail.com">
+  <img align="left" alt="nam4lpha | Gmail" width="22px" src="/icons/gmail.png" />
 </a>
 
 --------------------------
@@ -52,3 +55,8 @@ root@bughunt3r:~# cat about.txt
 
 
 ---------------
+
+# Read my recent blog's
+All these are friend link you can access for free
+
+- [Exploit](https://archnamtv.edublogs.org/2022)
