@@ -26,6 +26,9 @@ root@nam4lpha:~# cat about.txt
 <a href="mailto:namxomcau@gmail.com">
   <img align="left" alt="nam4lpha | Gmail" width="22px" src="/icons/gmail.png" />
 </a>
+<a href="https://paypal.me/nam4lpha">
+  <img align="left" alt="nam4lpha | Paypal" width="22px" src="/icons/paypal.png" />
+</a>
 
 --------------------------
 <p align="left"> 
