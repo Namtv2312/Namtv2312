@@ -43,6 +43,8 @@ root@nam4lpha:~# cat about.txt
   <img align="right" alt="Wicker" width="100px" src="/icons/icon-hacker.png" />
 </a>
 
+[![namα's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13600043)](https://stackoverflow.com/users/13600043/nam4lpha)
+
 ![nam4lpha GitHub stats](https://github-readme-stats.vercel.app/api?username=namtv2312&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Languages and Tools:
